@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca.API", "Biblioteca.API\Biblioteca.API.csproj", "{E5F1395A-B509-4538-9351-222D1AF23987}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca.Application", "Biblioteca.Application\Biblioteca.Application.csproj", "{6D52F421-3104-43D9-9D2D-5533DC0926B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca.Domain", "Biblioteca.Domain\Biblioteca.Domain.csproj", "{037757D5-5F48-46C4-9173-BC3AAC928E30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5F1395A-B509-4538-9351-222D1AF23987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5F1395A-B509-4538-9351-222D1AF23987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5F1395A-B509-4538-9351-222D1AF23987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5F1395A-B509-4538-9351-222D1AF23987}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D52F421-3104-43D9-9D2D-5533DC0926B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D52F421-3104-43D9-9D2D-5533DC0926B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D52F421-3104-43D9-9D2D-5533DC0926B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D52F421-3104-43D9-9D2D-5533DC0926B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{037757D5-5F48-46C4-9173-BC3AAC928E30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{037757D5-5F48-46C4-9173-BC3AAC928E30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{037757D5-5F48-46C4-9173-BC3AAC928E30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{037757D5-5F48-46C4-9173-BC3AAC928E30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
